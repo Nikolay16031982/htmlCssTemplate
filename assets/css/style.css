@@ -1,0 +1,66 @@
+/*  ---------------- fonts start ------------------ */
+
+/* ----------------- start style  -------------------- */
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+html, body {
+    min-height: 100%;
+    line-height: 1;
+    font-size: 14px;
+    line-height: calc(20/14*100%);
+    color: black;
+    font-family: "Montserrat";
+    font-weight: 500;
+}
+
+.wrapper {
+    overflow: hidden;
+    min-height: 100%;
+}
+
+._contaner {
+    max-width: 1046px;
+    margin: 0 auto;
+    padding: 0 10px;
+    box-sizing: content-box;
+}
+/* ----------------------- header style ------------------------ */
+
+.main__header {
+   
+}
+.heder__contaner {
+     display: flex;
+    justify-content: start;
+    /* column-gap: 100px; */
+}
+
+.header__logo {
+
+}
+.header__menu {
+}
+.menu__list {
+}
+.menu__item {
+}
+.main {
+}
+.footer {
+}
